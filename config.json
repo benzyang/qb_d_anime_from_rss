@@ -1,0 +1,168 @@
+[
+    {
+        "TELEGRAM_BOT_TOKEN": "",
+        "USER_ID": "",
+        "rss_urls": [
+            "https://mikanani.me/RSS/Bangumi?bangumiId=3327&subgroupid=21",
+            "https://acg.rip/user/2996.xml",
+            "https://acg.rip/team/147.xml",
+            "https://acg.rip/user/1917.xml"
+        ],
+        "torrent_path": "E:\\qb\\torrents",
+        "username": "",
+        "password": ""
+    },
+    {
+        "name": "幻樱 - 寓言",
+        "rss_url": "https://mikanani.me/RSS/Bangumi?bangumiId=3327&subgroupid=21",
+        "must_contain": "The Fable GB 1080",
+        "must_not_contain": "BIG5|720|12|11|09|07|06|05|04|03|02|01",
+        "save_path": "F:\\Anime\\04\\杀手寓言",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "桜都 - 狼与香辛料",
+        "rss_url": "https://acg.rip/user/2996.xml",
+        "must_contain": "Wolf 1080p 简",
+        "must_not_contain": "繁|12|11|09|07|06|05|04|03|02|01",
+        "save_path": "F:\\Anime\\04\\狼与香辛料",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "桜都 - 我推孩",
+        "rss_url": "https://acg.rip/user/2996.xml",
+        "must_contain": "Oshi no Ko 1080p 简",
+        "must_not_contain": "繁",
+        "save_path": "F:\\Anime\\07\\我推孩",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "桜都 - 夜游生活",
+        "rss_url": "https://acg.rip/user/2996.xml",
+        "must_contain": "Yoasobi Gurashi! 1080p 简",
+        "must_not_contain": "繁",
+        "save_path": "F:\\Anime\\07\\夜游生活",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "桜都 - 亚托莉",
+        "rss_url": "https://acg.rip/user/2996.xml",
+        "must_contain": "Atri 1080p 简",
+        "must_not_contain": "繁",
+        "save_path": "F:\\Anime\\07\\亚托莉",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "喵萌 - 鹿乃子",
+        "rss_url": "https://acg.rip/team/147.xml",
+        "must_contain": "Shikanoko 1080p 简",
+        "must_not_contain": "繁",
+        "save_path": "F:\\Anime\\07\\鹿乃子",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "喵萌 - 小市民",
+        "rss_url": "https://acg.rip/team/147.xml",
+        "must_contain": "Shoushimin Series 1080p 简",
+        "must_not_contain": "繁",
+        "save_path": "F:\\Anime\\07\\小市民",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "喵萌 - 疑似后宫",
+        "rss_url": "https://acg.rip/team/147.xml",
+        "must_contain": "Giji Harem 1080p 简",
+        "must_not_contain": "繁",
+        "save_path": "F:\\Anime\\07\\疑似后宫",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "喵萌 - 俄语",
+        "rss_url": "https://acg.rip/team/147.xml",
+        "must_contain": "Roshidere 1080p 简",
+        "must_not_contain": "繁",
+        "save_path": "F:\\Anime\\07\\俄",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "喵萌 - 义妹生活",
+        "rss_url": "https://acg.rip/team/147.xml",
+        "must_contain": "Gimai Seikatsu 1080p 简",
+        "must_not_contain": "繁",
+        "save_path": "F:\\Anime\\07\\义妹生活",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "喵萌 - NieR",
+        "rss_url": "https://acg.rip/team/147.xml",
+        "must_contain": "NieR:Automata 1080p 简",
+        "must_not_contain": "720|繁",
+        "save_path": "F:\\Anime\\07\\NieR",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "喵萌 - 败犬女主",
+        "rss_url": "https://acg.rip/team/147.xml",
+        "must_contain": "Make Heroine ga Oosugiru 1080p 简",
+        "must_not_contain": "720|繁",
+        "save_path": "F:\\Anime\\07\\败犬女主",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "喵萌 - 你我战",
+        "rss_url": "https://acg.rip/team/147.xml",
+        "must_contain": "ga Hajimaru Seisen Season II 1080p 简",
+        "must_not_contain": "720|繁",
+        "save_path": "F:\\Anime\\07\\你我战",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "Loli - 史莱姆",
+        "rss_url": "https://acg.rip/user/1917.xml",
+        "must_contain": "Slime 1080",
+        "must_not_contain": "720",
+        "save_path": "F:\\Anime\\04\\萌王",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "Loli - 魔法少女",
+        "rss_url": "https://acg.rip/user/1917.xml",
+        "must_contain": "Katsute Mahou Shoujo 1080p 简繁",
+        "must_not_contain": "720",
+        "save_path": "F:\\Anime\\07\\魔法少女",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "Loli - 精灵小姐",
+        "rss_url": "https://acg.rip/user/1917.xml",
+        "must_contain": "Yaserarenai 1080p 简",
+        "must_not_contain": "720",
+        "save_path": "F:\\Anime\\07\\精灵小姐",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    },
+    {
+        "name": "Loli - 舔甜歌姬",
+        "rss_url": "https://acg.rip/user/1917.xml",
+        "must_contain": "Egumi Legacy 1080p 简",
+        "must_not_contain": "720",
+        "save_path": "F:\\Anime\\07\\舔甜歌姬",
+        "tags": "Anime",
+        "content_layout": "NoSubFolder"
+    }
+]
