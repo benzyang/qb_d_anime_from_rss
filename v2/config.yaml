@@ -1,0 +1,36 @@
+- TELEGRAM_BOT_TOKEN: 
+  USER_ID: 
+  username: 
+  password: 
+  torrent_path: "torrents"
+  torrent_checked_file: "torrents\\checked.txt"
+  proxies:
+    # - http: "http://127.0.0.1:1215"
+    # - https: "http://127.0.0.1:1215"
+
+- filter: "桜都 简体中文 1080p"
+  rss_url: "https://bangumi.moe/rss/tags/57a034ee5cc0696f1ce1a1b2+548ee2ce4ab7379536f56358+548ee0ea4ab7379536f56354"
+  anime_filter:
+    - name: "桜都 - 合租房的秘密规则"
+      must_contain: "Share House no Himitsu Rule"
+      must_not_contain: "繁|合集"
+      save_path: "E:\\Ace 2\\Anime\\01\\一分钟"
+      tags: "Anime"
+      content_layout: "NoSubFolder"
+
+    # - name: "桜都 - 超自然武装"
+    #   must_contain: "Dan Da Dan 1080p 简"
+    #   must_not_contain: "繁|合集"
+    #   save_path: "E:\\Ace 2\\Anime\\10\\超自然武装"
+    #   tags: "Anime"
+    #   content_layout: "NoSubFolder"
+
+- filter: SweetSub
+  rss_url: "https://bangumi.moe/rss/tags/5854a57da8e01b4f37915ff4+549ef207fe682f7549f1ea90"
+  anime_filter:
+    - name: "SweetSub - 刹那之花"
+      must_contain: "Momentary Lily"
+      must_not_contain: "繁|合集"
+      save_path: "E:\\Ace 2\\Anime\\01\\Lily"
+      tags: "Anime"
+      content_layout: "NoSubFolder"
