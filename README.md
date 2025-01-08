@@ -1,6 +1,7 @@
 > qb 里开了代理还是不能解析 mikan 和 acg.rip 等 rss 订阅源，顺便学习下 qbittorrent-api 照着 qb 的 rss 订阅写了一个简单的自动追番脚本，消息推送给自己的 tg bot  
 ---
-250108: Update v2, 重写了一遍, config.json -> yaml  
+### 250108: Update v2, 重写了一遍, config.json -> yaml  
+
 
 
 ## Usage
